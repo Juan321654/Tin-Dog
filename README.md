@@ -1,4 +1,5 @@
 # Tin-Dog
+used bootsrap and some Jquery
 
-##Deployed Site
+## Deployed Site
 https://tindogclone.netlify.app/
